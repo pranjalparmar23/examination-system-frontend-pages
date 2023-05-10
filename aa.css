@@ -1,0 +1,182 @@
+body {
+   
+    background: linear-gradient(#f0edec,#0a96af);
+
+}
+.title h1{
+    color: rgb(7, 7, 7);
+
+    font-size: 42px;
+
+    margin-left: 500px;
+    margin-top: 70px;
+
+}
+
+
+
+.left-upper {
+    margin-top: 0.5em;
+    background-color: white;
+    float: left;
+    width: 60%;
+    border: 3px solid rgb(241, 241, 241);
+    
+}
+
+.left-upper, h1
+p {
+    padding: 1em;
+}
+
+.left-upper h1{
+    color: red;
+
+}
+
+#bold-line {
+    color: gray;
+    font-weight: bold;
+    font-size: larger;
+}
+.left-upper a{
+    text-decoration: none;
+    color: red;
+}
+
+.ton button
+{
+    color: rgb(14, 13, 13);
+
+    background: #a3a29d;
+
+    width: 200px;
+
+    height: 100px; 
+
+    cursor: pointer;
+
+    border :none;
+
+    outline: none;
+
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 200px;
+border-radius: 20pt;}
+
+.left-down {
+    float: left;
+    background-color: white;
+    margin-top: 0.5em;
+    width: 60%;
+    border: 3px solid gray;
+
+}
+
+.left-down, h1
+p {
+    padding: 1em;
+}
+
+.left-down a{
+    color: red;
+    text-decoration: none;
+}
+
+/* ############################################ */
+
+.right-upper {
+    width: 28em;
+    background-color: white;
+    padding: 1.5em;
+   /* border:2px solid gray;
+    border-radius: 3px; */
+    border: 3px solid gray;
+
+}
+
+.right-upper a{
+    color: black;
+    text-decoration: none;
+}
+
+.right-middle{
+    width: 28em;
+    background-color: white;
+    padding: 1.5em;
+    margin-top: 5px;
+   /* border:2px solid gray;
+    border-radius: 3px; */
+    border: 3px solid gray;
+
+}
+
+.right-middle, a{
+    color: black;
+    text-decoration: none;
+}
+
+.right-lower{
+    width: 28em;
+    background-color: white;
+    padding: 1.5em;
+    margin-top: 5px;
+  /*  border:2px solid gray;
+    border-radius: 3px;
+        border: 3px solid gray;
+
+    */
+    border: 3px solid gray;
+
+}
+
+.right-lower, a{
+    color: black;
+    text-decoration: none;
+}
+
+.right-part {
+    float: right;
+    margin-top: -14em;
+}
+
+.left-upper:hover{
+    background-color: blanchedalmond;
+    height: 200px;
+}
+.left-down:hover{
+    background-color: blanchedalmond;
+    height: 200px;
+
+}
+.right-upper:hover{
+    background-color: blanchedalmond;
+    height: 100px;
+
+}
+.right-middle:hover{
+    background-color: blanchedalmond;
+    height: 100px;
+
+}
+.right-lower:hover{
+    background-color: blanchedalmond;
+    height: 100px;
+}
+
+.footer-c{
+    position: fixed;
+    background-color: rgb(9, 113, 231);   
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    color: white;
+    padding-left: 1em;
+    font-size: 1em;
+    margin-right: 5em;
+
+}
+footer a{
+    color: rgb(16, 216, 243);
+}

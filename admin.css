@@ -1,0 +1,211 @@
+body{
+    
+    align-items: center;
+    background: linear-gradient(#f0edec,#0a96af);
+}
+
+
+.navbar{
+    
+
+    display: inline-flex;
+
+    width: 100%;
+
+    height: 140px;
+
+    
+
+}
+
+.navbar .logo {
+
+    height: 100px;
+
+    width: 100px;
+
+    margin-left: 40px;
+
+}
+
+.navbar .logo img{
+
+    height: 80px;
+
+    width: 80px;
+
+    margin-top: 18px;
+
+    border-radius: 50%;
+
+}
+
+.navbar .title h1{
+
+    color: rgb(7, 7, 7);
+
+    font-size: 42px;
+
+    
+
+}
+
+.navbar .title p{
+
+    color: rgb(10, 10, 10);
+
+    font-size: 30px;
+
+}
+
+.navbar .list{
+
+    margin-top: 80px;
+
+    margin-left: 800px;
+
+}
+
+.navbar .list a{
+
+    color: rgb(14, 13, 13);
+
+    text-decoration: none;
+
+    font-size: 20px;
+
+    margin: 10px;
+
+}
+
+
+.main{
+   
+    margin-left: 40%;
+    margin-top: 50px;
+    max-width: 320px;
+    max-height: 400px;
+    width: 100%;
+    background: #fcf9f9;
+    padding: 30px 30px;
+    border-radius: 10pt;
+    border-width: 50pt;
+    border-color: #0a0a0a;
+   
+
+    
+
+}
+
+.main h1{
+    margin-left: 100px;
+
+    color:  #0a0a0a;
+    position: relative;
+    right: 40px;
+    
+
+}
+
+.main input{
+
+    outline: none;
+
+    padding: 2px;
+
+    height: 25px;
+
+    width: 300px;
+    
+
+}
+
+.main label
+{
+    display: inline-block;
+        width: 140px;
+}
+.main button{
+
+    color: rgb(14, 13, 13);
+
+    background: #fcd80b;
+
+    width: 100px;
+
+    height: 25px;
+
+    cursor: pointer;
+
+    border :none;
+
+    outline: none;
+
+    font-size: 20px;
+    border-radius: 15pt;
+    position: relative;
+    top: 10px; 
+    left: 100px;
+}
+
+.main a{
+
+    text-decoration: none;
+    text-align: right;
+    position: relative;
+    top: 10px; 
+    left: 100px;
+
+}
+
+
+.footer{
+    
+    
+
+    display: inline-flex;
+
+    margin-top: 50px;
+ 
+
+
+}
+
+.footer .t2 h2{
+
+    color: rgb(14, 13, 13);
+
+    font-size: 20px;
+
+    align-items: center;
+    margin-bottom: 5px;
+   padding-top: 5px;
+   justify-content: center;
+}
+
+.footer .t2 p{
+
+    color: rgb(19, 18, 18);
+
+   
+    
+
+}
+
+.footer .contact{
+
+  margin-right: 650px;
+    
+padding-top: 10px;
+margin-top: 100px;
+    
+    
+    
+
+}
+
+.footer .contact p{
+
+    color: rgb(17, 16, 16);
+    
+}
